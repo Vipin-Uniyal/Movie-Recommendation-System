@@ -26,7 +26,7 @@ Content Based Filtering - They suggest similar items based on a particular item.
 <h2>Similarity Score : </h2>
 <p>How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
 <br>
-It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.</p>
+It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items.This can be done by cosine-similarity.</p>
 <p align='center'><img src ='https://user-images.githubusercontent.com/31500911/143418326-9ed3e46a-5ddd-46dc-86fc-8b145101af52.png'></p>
 <br>
 
